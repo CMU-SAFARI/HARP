@@ -1,0 +1,6 @@
+[submodule "lib/einsim"]
+	path = lib/einsim
+	url = https://github.com/CMU-SAFARI/EINSim
+[submodule "lib/z3"]
+	path = lib/z3
+	url = https://github.com/Z3Prover/z3
